@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RentalSystem
+comment1.params=
+comment1.target=RentalSystem()
+comment2.params=k
+comment2.target=void\ tambahKendaraan(Kendaraan)
+comment3.params=p
+comment3.target=void\ tambahPenyewa(Penyewa)
+comment4.params=
+comment4.target=void\ tampilkanKendaraan()
+comment5.params=
+comment5.target=void\ tampilkanPenyewa()
+numComments=6
